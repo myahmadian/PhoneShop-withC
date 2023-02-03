@@ -1,0 +1,6 @@
+the name of database file is : database
+
+phones brand name:
+				iphone
+				Samsung
+				Google
